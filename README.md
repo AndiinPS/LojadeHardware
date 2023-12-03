@@ -1,4 +1,4 @@
-# Simple Vanilla SPA
+# Simple  SPA
 
 Um site *front-end* experimental, bem simples no paradigma SPA (*Single Page Application*) que pode ser adaptado para diversos *cases* como, por exemplo:
 
@@ -6,7 +6,7 @@ Um site *front-end* experimental, bem simples no paradigma SPA (*Single Page App
 - Consumir um *back-end* com uma API REST;
 - Consumir um *back-end* como serviço (BaaS - Back-end as a Service) como o [Firebase](https://firebase.com).
 
-[Clique aqui](https://luferat.github.io/Vanilla.SPA.FrontEnd/) para ver a publicação do branch "main" funcionando.
+[Clique aqui](https://andiinps.github.io/LojadeHardware/) para ver a publicação do branch "main" funcionando.
 
 ## Características
 
@@ -22,7 +22,7 @@ Um site *front-end* experimental, bem simples no paradigma SPA (*Single Page App
 ## Obtendo
 
 1. Acesse o [GitHub.com](https://github.com/) e logue-se na sua conta;
-2. Acesse o repositório original do aplicativo [Vanilla.SPA.FrontEnd](https://github.com/Luferat/Vanilla.SPA.FrontEnd);
+2. Acesse o repositório original do aplicativo [LojadeHardware](https://github.com/AndiinPS/LojadeHardware.git);
 3. No menu de ferramentas do repositório, clique em "Fork";
 4. Na página **Create a new fork**, marque a opção `Copy the master branch only`;
 5. Clique no botão **`[Create fork]`** para criar uma cópia do repositório no seu GitHub.com.
@@ -49,9 +49,9 @@ git config --global http.sslVerify false
 
 9.  Agora, digite `git clone` seguido de um espaço;
 10. Na mesma linha, cole o endereço do repositório com o botão direito do mouse (*paste*) ou teclando `[Shift]`+`[Insert]`;
-       - Teremos algo como `git clone https://github.com/seuUserName/Vanilla.SPA.FrontEnd.git`.
+       - Teremos algo como `git clone https://github.com/seuUserName/LojadeHardware.git`.
 11. Tecle `[Enter]` para fazer a *clonagem*;
-12. Acesse a pasta local do projeto comandando `cd Vanilla.SPA.FrontEnd`.
+12. Acesse a pasta local do projeto comandando `cd LojadeHardware`.
 
 Agora que tem os códigos fonte, pode trabalhar na sua versão do aplicativo. 
 Se você tem o [**Visual Studio Code**](https://code.visualstudio.com/docs/?dv=win64user) corretamente instalado e deseja usá-lo, comande `code .`.
