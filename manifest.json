@@ -1,6 +1,6 @@
 {
-    "name": "Vanilla SPA FrontEnd",
-    "short_name": "Vanilla SPA FrontEnd",
+    "name": "Loja de Hardware SPA ",
+    "short_name": "Loja de Hardware SPA FrontEnd",
     "description": "Um site *front-end* experimental, bem simples no paradigma *SPA - Single Page Application* que pode ser adaptado para diversos cases.",
     "theme_color": "#0d83b5",
     "background_color": "#0b384c",
