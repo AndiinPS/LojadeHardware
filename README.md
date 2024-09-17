@@ -6,7 +6,7 @@ Um site *front-end* experimental, bem simples no paradigma SPA (*Single Page App
 - Consumir um *back-end* com uma API REST;
 - Consumir um *back-end* como serviço (BaaS - Back-end as a Service) como o [Firebase](https://firebase.com).
 
-[Clique aqui](https://andiinps.github.io/LojadeHardware/) para ver a publicação do branch "main" funcionando.
+[Clique aqui](https://pinheiroanderson.github.io/LojadeHardware/) para ver a publicação do branch "main" funcionando.
 
 ## Características
 
